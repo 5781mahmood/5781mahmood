@@ -1,6 +1,6 @@
 # Hi, I'm Mahmood
 
-I'm a third-year student at the University of Toronto Mississauga studying Technology, Coding & Society and Communication, Culture, Information & Technology, with a Statistics minor. I work on backend features and test automation.
+I'm a third-year student at the University of Toronto Mississauga studying Technology, Coding & Society and Culture, Communication, Information & Technology, with a Statistics minor. I work on backend features and test automation.
 
 **Looking for:** a 12-16 month co-op starting May 2027.
 
